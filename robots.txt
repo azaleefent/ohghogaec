@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://reerighaen.davidgrieser.com/sitemap.xml
